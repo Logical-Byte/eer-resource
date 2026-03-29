@@ -648,5 +648,15 @@
     "stat3_id": "gst_passive_magabn",
     "weapon_id": "wpn_sword_0021",
     "weapon_type": "SWORD"
+  },
+  "wpn_sword_0022": {
+    "icon_id": "wpn_sword_0022",
+    "name": "狼之绯",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_agi",
+    "stat2_id": "gat_passive_attr_crirate",
+    "stat3_id": "gst_passive_crit",
+    "weapon_id": "wpn_sword_0022",
+    "weapon_type": "SWORD"
   }
 }
