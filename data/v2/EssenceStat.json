@@ -70,7 +70,7 @@
     "type": "ATTRIBUTE"
   },
   "gat_passive_attr_usp": {
-    "name": "终结技效率提升",
+    "name": "终结技充能效率提升",
     "stat_id": "gat_passive_attr_usp",
     "type": "SECONDARY"
   },

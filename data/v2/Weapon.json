@@ -259,6 +259,26 @@
     "weapon_id": "wpn_funnel_0014",
     "weapon_type": "WAND"
   },
+  "wpn_funnel_0015": {
+    "icon_id": "wpn_funnel_0015",
+    "name": "孤舟",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_will",
+    "stat2_id": "gat_passive_attr_atk",
+    "stat3_id": "gst_passive_tactic",
+    "weapon_id": "wpn_funnel_0015",
+    "weapon_type": "WAND"
+  },
+  "wpn_funnel_0017": {
+    "icon_id": "wpn_funnel_0017",
+    "name": "雾中微光",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_will",
+    "stat2_id": "gat_passive_attr_pulsedam",
+    "stat3_id": "gst_passive_keyword",
+    "weapon_id": "wpn_funnel_0017",
+    "weapon_type": "WAND"
+  },
   "wpn_lance_0003": {
     "icon_id": "wpn_lance_0003",
     "name": "寻路者道标",
