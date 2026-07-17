@@ -289,6 +289,16 @@
     "weapon_id": "wpn_funnel_0015",
     "weapon_type": "WAND"
   },
+  "wpn_funnel_0016": {
+    "icon_id": "wpn_funnel_0016",
+    "name": "四二式·肃阵",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_wisd",
+    "stat2_id": "gat_passive_attr_usp",
+    "stat3_id": "gst_passive_burst",
+    "weapon_id": "wpn_funnel_0016",
+    "weapon_type": "WAND"
+  },
   "wpn_funnel_0017": {
     "icon_id": "wpn_funnel_0017",
     "name": "雾中微光",
@@ -297,6 +307,16 @@
     "stat2_id": "gat_passive_attr_pulsedam",
     "stat3_id": "gst_passive_keyword",
     "weapon_id": "wpn_funnel_0017",
+    "weapon_type": "WAND"
+  },
+  "wpn_funnel_0018": {
+    "icon_id": "wpn_funnel_0018",
+    "name": "联结点",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_wisd",
+    "stat2_id": "gat_passive_attr_usp",
+    "stat3_id": "gst_passive_keyword",
+    "weapon_id": "wpn_funnel_0018",
     "weapon_type": "WAND"
   },
   "wpn_lance_0003": {
@@ -397,6 +417,26 @@
     "stat2_id": "gat_passive_attr_phydam",
     "stat3_id": "gst_passive_magabn",
     "weapon_id": "wpn_lance_0013",
+    "weapon_type": "LANCE"
+  },
+  "wpn_lance_0015": {
+    "icon_id": "wpn_lance_0015",
+    "name": "镀红祝福",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_agi",
+    "stat2_id": "gat_passive_attr_firedam",
+    "stat3_id": "gst_passive_tacafter",
+    "weapon_id": "wpn_lance_0015",
+    "weapon_type": "LANCE"
+  },
+  "wpn_lance_0016": {
+    "icon_id": "wpn_lance_0016",
+    "name": "黄金时代",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_will",
+    "stat2_id": "gat_passive_attr_heal",
+    "stat3_id": "gst_passive_combo",
+    "weapon_id": "wpn_lance_0016",
     "weapon_type": "LANCE"
   },
   "wpn_pistol_0001": {
@@ -708,5 +748,25 @@
     "stat3_id": "gst_passive_crit",
     "weapon_id": "wpn_sword_0022",
     "weapon_type": "SWORD"
+  },
+  "wpn_sword_0026": {
+    "icon_id": "wpn_sword_0026",
+    "name": "遥望",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_main",
+    "stat2_id": "gat_passive_attr_physpell",
+    "stat3_id": "gst_passive_force",
+    "weapon_id": "wpn_sword_0026",
+    "weapon_type": "SWORD"
+  },
+  "曜夜的首演": {
+    "icon_id": "默认武器图标",
+    "name": "曜夜的首演",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_will",
+    "stat2_id": "gat_passive_attr_heal",
+    "stat3_id": "gst_passive_heal",
+    "weapon_id": "曜夜的首演",
+    "weapon_type": "LANCE"
   }
 }
