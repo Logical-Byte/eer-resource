@@ -1,0 +1,277 @@
+{
+  "world_energy_point_group01": {
+    "battleId": "world_energy_point_group01",
+    "battleName": "重度能量淤积点·枢纽区",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map01_lv001_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_tactic",
+      "gst_passive_combo",
+      "gst_passive_smash",
+      "gst_passive_phyabn",
+      "gst_passive_burst",
+      "gst_passive_tacafter",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group02": {
+    "battleId": "world_energy_point_group02",
+    "battleName": "重度能量淤积点·源石研究园",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map01_lv005_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam"
+    ],
+    "skillStats": [
+      "gst_passive_tactic",
+      "gst_passive_combo",
+      "gst_passive_spirit",
+      "gst_passive_phyabn",
+      "gst_passive_magabn",
+      "gst_passive_heal",
+      "gst_passive_crit",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group03": {
+    "battleId": "world_energy_point_group03",
+    "battleName": "重度能量淤积点·矿脉源区",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map01_lv006_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_hp",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_tactic",
+      "gst_passive_phyabn",
+      "gst_passive_break",
+      "gst_passive_magabn",
+      "gst_passive_burst",
+      "gst_passive_ult",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group04": {
+    "battleId": "world_energy_point_group04",
+    "battleName": "重度能量淤积点·供能高地",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map01_lv007_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_hp",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_combo",
+      "gst_passive_smash",
+      "gst_passive_spirit",
+      "gst_passive_break",
+      "gst_passive_magabn",
+      "gst_passive_heal",
+      "gst_passive_crit",
+      "gst_passive_tacafter"
+    ]
+  },
+  "world_energy_point_group05": {
+    "battleId": "world_energy_point_group05",
+    "battleName": "重度能量淤积点·武陵城",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv002_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_hp",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_smash",
+      "gst_passive_break",
+      "gst_passive_heal",
+      "gst_passive_crit",
+      "gst_passive_burst",
+      "gst_passive_ult",
+      "gst_passive_tacafter"
+    ]
+  },
+  "world_energy_point_group06": {
+    "battleId": "world_energy_point_group06",
+    "battleName": "重度能量淤积点·清波寨",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv003_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_hp",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_tactic",
+      "gst_passive_smash",
+      "gst_passive_spirit",
+      "gst_passive_phyabn",
+      "gst_passive_heal",
+      "gst_passive_crit",
+      "gst_passive_burst",
+      "gst_passive_ult"
+    ]
+  },
+  "world_energy_point_group07": {
+    "battleId": "world_energy_point_group07",
+    "battleName": "重度能量淤积点·首墩",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv004_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_combo",
+      "gst_passive_spirit",
+      "gst_passive_break",
+      "gst_passive_magabn",
+      "gst_passive_ult",
+      "gst_passive_tacafter",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group08": {
+    "battleId": "world_energy_point_group08",
+    "battleName": "重度能量淤积点·试验园区",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv005_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_hp",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_tactic",
+      "gst_passive_smash",
+      "gst_passive_phyabn",
+      "gst_passive_break",
+      "gst_passive_magabn",
+      "gst_passive_crit",
+      "gst_passive_ult",
+      "gst_passive_tacafter"
+    ]
+  },
+  "world_energy_point_group09": {
+    "battleId": "world_energy_point_group09",
+    "battleName": "重度能量淤积点·藏剑谷",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv006_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_hp",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_combo",
+      "gst_passive_spirit",
+      "gst_passive_phyabn",
+      "gst_passive_heal",
+      "gst_passive_crit",
+      "gst_passive_burst",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group10": {
+    "battleId": "world_energy_point_group10",
+    "battleName": "重度能量淤积点·应龙关",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv007_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_icedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_magicdam"
+    ],
+    "skillStats": [
+      "gst_passive_tactic",
+      "gst_passive_combo",
+      "gst_passive_phyabn",
+      "gst_passive_break",
+      "gst_passive_magabn",
+      "gst_passive_burst",
+      "gst_passive_tacafter",
+      "gst_passive_keyword"
+    ]
+  },
+  "world_energy_point_group11": {
+    "battleId": "world_energy_point_group11",
+    "battleName": "重度能量淤积点·北部禁区",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv008_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_hp",
+      "gat_passive_attr_phydam",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_naturaldam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_physpell",
+      "gat_passive_attr_magicdam",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_tactic",
+      "gst_passive_combo",
+      "gst_passive_smash",
+      "gst_passive_spirit",
+      "gst_passive_magabn",
+      "gst_passive_heal",
+      "gst_passive_keyword"
+    ]
+  }
+}
