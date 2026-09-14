@@ -319,6 +319,26 @@
     "weapon_id": "wpn_funnel_0018",
     "weapon_type": "WAND"
   },
+  "wpn_funnel_0019": {
+    "icon_id": "wpn_funnel_0019",
+    "name": "寒夜幽影",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_agi",
+    "stat2_id": "gat_passive_attr_atk",
+    "stat3_id": "gst_passive_burst",
+    "weapon_id": "wpn_funnel_0019",
+    "weapon_type": "WAND"
+  },
+  "wpn_funnel_0020": {
+    "icon_id": "wpn_funnel_0020",
+    "name": "苦难的尽头",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_agi",
+    "stat2_id": "gat_passive_attr_naturaldam",
+    "stat3_id": "gst_passive_burst",
+    "weapon_id": "wpn_funnel_0020",
+    "weapon_type": "WAND"
+  },
   "wpn_lance_0003": {
     "icon_id": "wpn_lance_0003",
     "name": "寻路者道标",
