@@ -273,5 +273,30 @@
       "gst_passive_heal",
       "gst_passive_keyword"
     ]
+  },
+  "world_energy_point_group12": {
+    "battleId": "world_energy_point_group12",
+    "battleName": "重度能量淤积点·雪松林",
+    "imageUrl": "https://cos.yituliu.cn/endfield/endfielddata/assets/beyond/dynamicassets/gameplay/ui/sprites/loading/bg_loading_map02_lv009_1.webp",
+    "secondaryStats": [
+      "gat_passive_attr_atk",
+      "gat_passive_attr_hp",
+      "gat_passive_attr_firedam",
+      "gat_passive_attr_pulsedam",
+      "gat_passive_attr_crirate",
+      "gat_passive_attr_usp",
+      "gat_passive_attr_magicdam",
+      "gat_passive_attr_heal"
+    ],
+    "skillStats": [
+      "gst_passive_force",
+      "gst_passive_smash",
+      "gst_passive_spirit",
+      "gst_passive_break",
+      "gst_passive_heal",
+      "gst_passive_burst",
+      "gst_passive_ult",
+      "gst_passive_tacafter"
+    ]
   }
 }
