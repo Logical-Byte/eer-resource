@@ -16,6 +16,8 @@ Represents a weapon in the game.
 - **`stat2_id`** (string | null, FK): Reference to `EssenceStat.json` (Secondary slot).
 - **`stat3_id`** (string | null, FK): Reference to `EssenceStat.json` (Skill slot).
 
+Upcoming weapons that are still only announced in `ForesightWeaponTable.json` (前瞻武器) are merged in too, so they can be planned for before release. A weapon that already exists in the released tables keeps its released data; only weapons missing entirely are taken from the foresight table.
+
 ### 2. EssenceStat (`EssenceStat.json`)
 Represents an individual essence entry or sub-stat/skill.
 - **`stat_id`** (string, PK): Unique identifier for the essence.

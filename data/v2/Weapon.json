@@ -819,6 +819,16 @@
     "weapon_id": "wpn_sword_0024",
     "weapon_type": "SWORD"
   },
+  "wpn_sword_0025": {
+    "icon_id": "wpn_sword_0025",
+    "name": "唤月",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_will",
+    "stat2_id": "gat_passive_attr_atk",
+    "stat3_id": "gst_passive_magabn",
+    "weapon_id": "wpn_sword_0025",
+    "weapon_type": "SWORD"
+  },
   "wpn_sword_0026": {
     "icon_id": "wpn_sword_0026",
     "name": "遥望",
