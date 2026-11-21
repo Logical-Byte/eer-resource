@@ -489,6 +489,26 @@
     "weapon_id": "wpn_lance_0016",
     "weapon_type": "LANCE"
   },
+  "wpn_lance_0017": {
+    "icon_id": "wpn_lance_0017",
+    "name": "甜美交易",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_str",
+    "stat2_id": "gat_passive_attr_naturaldam",
+    "stat3_id": "gst_passive_tacafter",
+    "weapon_id": "wpn_lance_0017",
+    "weapon_type": "LANCE"
+  },
+  "wpn_lance_0018": {
+    "icon_id": "wpn_lance_0018",
+    "name": "突击流星",
+    "rarity": 6,
+    "stat1_id": "gat_passive_attr_str",
+    "stat2_id": "gat_passive_attr_usp",
+    "stat3_id": "gst_passive_burst",
+    "weapon_id": "wpn_lance_0018",
+    "weapon_type": "LANCE"
+  },
   "wpn_pistol_0001": {
     "icon_id": "wpn_pistol_0001",
     "name": "佩科5",
@@ -607,6 +627,16 @@
     "stat2_id": "gat_passive_attr_usp",
     "stat3_id": "gst_passive_burst",
     "weapon_id": "wpn_pistol_0012",
+    "weapon_type": "PISTOL"
+  },
+  "wpn_pistol_0013": {
+    "icon_id": "wpn_pistol_0013",
+    "name": "明日之星",
+    "rarity": 5,
+    "stat1_id": "gat_passive_attr_str",
+    "stat2_id": "gat_passive_attr_usp",
+    "stat3_id": "gst_passive_force",
+    "weapon_id": "wpn_pistol_0013",
     "weapon_type": "PISTOL"
   },
   "wpn_sword_0003": {
